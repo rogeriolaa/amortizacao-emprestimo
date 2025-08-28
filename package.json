@@ -1,5 +1,5 @@
 {
-  "name": "amortizacao-emprestimo",
+  "name": "@n0n3br/amortizacao-emprestimo",
   "version": "1.0.0",
   "type": "module",
   "description": "Cálculo de amortização de empréstimos nos sistemas SAC, PRICE e SAM em TypeScript",
