@@ -1,0 +1,53 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# NPM package files (se usar arquivos temporários ou cache)
+package-lock.json
+yarn.lock
+
+# Test cache or temp files
+jest-cache/
+jest-temp/
+
+# Example output, se gerar arquivos dentro da pasta example
+example/amortizacao-emprestimo.js
+
+# TypeScript cache and metadata
+*.tsbuildinfo
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Optional: Ignore coverage reports but isso pode ser útil manter
+# coverage/
+
+# Optional: Se usar scripts ou dados sensíveis
+scripts/*.secret.js
+
+# Ignore generated docs if any
+docs/
+

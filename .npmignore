@@ -1,0 +1,13 @@
+src/
+test/
+scripts/
+.vscode/
+.github/
+*.log
+*.md
+docs/
+coverage/
+example/
+tsconfig.json
+jest.config.js
+.DS_Store
